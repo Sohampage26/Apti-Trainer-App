@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical"
+    tools:context=".notes.logical_notes">
+
+    <Button
+        android:id="@+id/number_series"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number Series"
+        android:textSize="20dp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:backgroundTint="#8A8080"
+        android:drawableTop="@drawable/baseline_download_24"
+        android:layout_margin="20dp"
+        />
+    <Button
+        android:id="@+id/analogy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Anologies"
+        android:textSize="20dp"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:backgroundTint="#8A8080"
+        android:drawableTop="@drawable/baseline_download_24"
+        android:layout_margin="20dp" />
+    <Button
+        android:id="@+id/letter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Letter and Symbol Series"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:padding="15dp"
+        android:backgroundTint="#8A8080"
+        android:drawableTop="@drawable/baseline_download_24"
+        android:layout_margin="20dp" />
+
+
+
+
+</LinearLayout>
