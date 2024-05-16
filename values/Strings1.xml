@@ -1,0 +1,35 @@
+<resources>
+    <string name="small_text">
+        Capgemini Exceller Recruitment Process for Freshers 2023 hiring have changed from previous year recruitment process.
+        They have removed aptitude, logical and essay writing rounds and have introduces 3 new rounds.
+        In this page we have explained all the details related to Capgemini Exceller Recruitment Process for Freshers, make sure you go through it.
+
+        Round 1 - Online Test of Capgemini Exceller Recruitment Process:
+
+          Technical Test
+              1. English Communication test
+              2. Game based Aptitude Test
+              3. Behavioral Competency Test
+              4. Spoken English
+              5. Coding
+
+        Round 2 - Technical Interview Capgemini Exceller Recruitment Pattern :
+
+              1. Explain about the final year project
+              2. Basic coding questions
+              3. Knowledge of company based latest Technologies
+
+        Round 3 - HR Interview Capgemini Exceller Recruitment Pattern :
+
+              Q1- Tell me something about yourself ?
+              Q2- What are your strengths and weakness ?
+              Q3- Why Capgemini ?
+              Q4- Who is the CEO of Capgemini ?
+              Q5- What do you know about Capgemini ?
+              Q6- Why do you want to join Capgemini ?
+              Q7- Are you comfortable with night shifts ?
+              Q8- What are your favorable areas to work in ?
+              Q9- Tell me something about yourself, which you haven’t mentioned in your resume
+
+    </string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Link">
+     To see all information regarding Campus go through official Website :  <a href = "https://www.capgemini.com/in-en/" > Click here </a>
+    </string>
+
+</resources>

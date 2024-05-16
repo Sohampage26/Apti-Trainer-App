@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Link1">
+      To see all information regarding Campus go through official Website :  <a href = "https://hexaware.com/" > Click here </a>
+    </string>
+</resources>

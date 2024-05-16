@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AdvanceDesigns</string>
+
+    <string name="large_text">Capgimini</string>
+    <string name="Description_text">
+        The Capgemini Group Executive Committee consists of 27 members.
+        On 20 May 2020, Aiman Ezzat was appointed as the new CEO. He is associated with Capgemini for more than 20 years.
+        From 2005 to 2007, Aiman was Capgemini\'s Deputy Director of Strategy.
+        In November 2007, Ezzat was appointed COO of the Financial Services Global Business Unit, and became its Global Head in
+    December 2008 till 2012. From January 2018 to May 2020, he served as Chief Operating Officer and
+    prior to this as Chief Financial Officer, from December 2012 to 2018.
+
+    From 2012 to 2020, Paul Hermelin served as the Group Chairman and CEO. He joined Capgemini in
+    1993, and was appointed as its CEO in 2002.[30] In May 2012, Hermelin became chairman and CEO of
+    the Capgemini Group.[31] He succeeded Serge Kampf, who served as the Vice Chairman of the Board
+    until his death on 15 March 2016.[32]
+
+    In May 2020, Aiman Ezzat succeeded Paul Hermelin as CEO. Paul Hermelin continues as Chairman of
+    the Board of Directors</string>
+    <string name="campus_rounds">Campus Rounds</string>
+
+</resources>

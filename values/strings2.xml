@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mediumInverse_text">
+        Recently Hexware Recruitment Process for freshers 2023 has been updated and the pattern is now completely changed.
+        Go through the page to get detailed updated pattern of Hexaware Recruitment Process.
+        Hexaware is now hiring for two different profiles i.e
+
+           1. GET (Graduate Engineer Trainee)
+           2. PGET (Premier Graduate Engineer Trainee)
+        Recruitment Pattern for both the profiles is different and the package offered is also different.
+        Go through this page to understand about the hiring pattern of Hexaware in detail.
+
+            * Round 1: Online Aptitude Test + Technical Domain Test :
+                I. Verbal Ability: 20 ques
+                II. Logical Ability: 20 ques
+                III. Numerical Ability: 20 ques
+                IV. Domain Based: 30 ques
+
+           * Round 2: Coding
+           * Round 3: Communication Assessment
+           * Round 4: Technical Interview
+           * Round 5: HR Interview
+
+
+
+
+
+    </string>
+</resources>
