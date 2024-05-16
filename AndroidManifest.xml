@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AdvanceDesigns"
+        tools:targetApi="31">
+        <activity
+            android:name=".Mock_test"
+            android:exported="false" />
+        <activity
+            android:name=".Discussion"
+            android:exported="false" />
+        <activity
+            android:name=".componyInfo"
+            android:exported="false" />
+        <activity
+            android:name=".notes.data_interprtetion_notes"
+            android:exported="false" />
+        <activity
+            android:name=".notes.Verbal_ability_notes"
+            android:exported="false" />
+        <activity
+            android:name=".notes.nonverbal_notes"
+            android:exported="false" />
+        <activity
+            android:name=".notes.verbal_notes"
+            android:exported="false" />
+        <activity
+            android:name=".notes.logical_notes"
+            android:exported="false" />
+        <activity
+            android:name=".notes.Quant_notes"
+            android:exported="false" />
+        <activity
+            android:name=".notes.Notes_dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".ForgetPass"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuantTopics.QuantProfitLoss"
+            android:exported="false" />
+        <activity
+            android:name=".QuantTopics.QuantPercentage"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".verbal_quiz"
+            android:exported="false" />
+        <activity
+            android:name=".verbal_practice_questions"
+            android:exported="false" />
+        <activity
+            android:name=".verbal_dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".verbal_topics"
+            android:exported="false" />
+        <activity
+            android:name=".logical_quiz"
+            android:exported="false" />
+        <activity
+            android:name=".logical_practice_questions"
+            android:exported="false" />
+        <activity
+            android:name=".logical_dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".logical_topics"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".topics.QuantTopics"
+            android:exported="false" />
+        <activity
+            android:name=".percentage_dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".percentage_practice_questions"
+            android:exported="true" />
+        <activity
+            android:name=".maindashboard"
+            android:exported="true" />
+        <activity
+            android:name=".QuizAcitivity"
+            android:exported="true" />
+        <activity
+            android:name=".StartingScreenActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Quantative"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
